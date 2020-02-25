@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://lucid-brattain-2d7b3b.netlify.com/]()
+* Link to the website deployed on Netlify : https://lucid-brattain-2d7b3b.netlify.com/
